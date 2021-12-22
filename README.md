@@ -6,3 +6,7 @@ Iris recognition is a fast-growing area with high potential for future biometric
 IITD_Delhi Iris Database    
 CASIA-V4-Interval Iris Database    
 MMU2 Iris Database    
+
+## Github Files
+Jupyter notebook files: deep learning training process     
+Python files: sample files for Airflow    
